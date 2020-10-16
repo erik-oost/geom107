@@ -2,6 +2,14 @@ body {
 	background-color: crimson;
 }
 
+.serif {
+	font-family: Optima, Times, serif;
+}
+
+.sansserif {
+	font-family: Helvetica, sans-serif;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -34,12 +42,10 @@ h1 {
 
 h2 {
 	text-align: center;
-	font-family: optima, serif;
 	color: forestgreen;
 }
 
 p {
 	text-align: left;
-	font-family: helvetica;
 	color: gold;
 }
