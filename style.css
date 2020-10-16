@@ -14,7 +14,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline;
   padding: 10px;
   background-color: darkred;
 }
