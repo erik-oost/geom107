@@ -43,11 +43,13 @@ li a:hover {
 h1 {
 	text-align: center;
 	color: white;
+	padding-bottom: 5px;
 }
 
 h2 {
 	text-align: center;
 	color: forestgreen;
+	padding-bottom: 5px;
 }
 
 h3 {
