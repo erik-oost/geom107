@@ -24,6 +24,7 @@ li {
 
 li a {
   display: inline-block;
+  width: 30%;
   color: white;
   text-align: center;
   text-decoration: none;
