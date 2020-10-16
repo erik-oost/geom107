@@ -10,27 +10,6 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: inline-block;
-  width: 300px;
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  padding: 10px;
-  background-color: darkred;
-}
-
 .nav{
     border:2px solid #ffffff;
     border-width:2px 0;
