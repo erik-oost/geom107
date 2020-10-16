@@ -11,7 +11,7 @@ body {
 }
 
 .nav{
-    border:2px solid #ffffff;
+    border:2px solid darkgreen;
     border-width:2px 0;
     list-style:none;
     margin:0;
@@ -20,14 +20,16 @@ body {
 }
 .nav li{
     display:inline;
+    color: white;
+    text-decoration: none;  
 }
 .nav a{
     display:inline-block;
-    padding:10px;
+    padding:15px;
 }
 
 li a:hover {
-	background-color: green;
+	background-color: darkred;
 }
 
 h1 {
