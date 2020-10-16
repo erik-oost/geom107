@@ -24,7 +24,7 @@ li {
 
 li a {
   display: inline-block;
-  width: 30%;
+  max-width: 300px;
   color: white;
   text-align: center;
   text-decoration: none;
