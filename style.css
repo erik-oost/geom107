@@ -10,7 +10,7 @@ ul {
 }
 
 li {
-  float: center;
+  float: left;
 }
 
 li a {
@@ -33,7 +33,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: crimson;
+	color: darkgreen;
 }
 
 p {
