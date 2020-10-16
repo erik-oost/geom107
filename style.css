@@ -14,9 +14,16 @@ li {
 }
 
 li a {
-  display: inline;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
   padding: 10px;
   background-color: darkred;
+}
+
+li a:hover {
+	background-color: darkgreen;
 }
 
 h1 {
