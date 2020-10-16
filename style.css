@@ -37,6 +37,7 @@ body {
 
 li a:hover {
 	background-color: crimson;
+	color: white;
 }
 
 h1 {
@@ -47,6 +48,11 @@ h1 {
 h2 {
 	text-align: center;
 	color: forestgreen;
+}
+
+h3 {
+	text-align: center;
+	color: gold;
 }
 
 p {
