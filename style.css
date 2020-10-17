@@ -44,6 +44,7 @@ h1 {
 	text-align: center;
 	color: white;
 	padding-bottom: 1px;
+	font-size: 30vw;
 }
 
 h2 {
@@ -63,4 +64,7 @@ h3 {
 p {
 	text-align: left;
 	color: gold;
+}
+img {
+	max-width: 100%;
 }
