@@ -73,8 +73,9 @@ img {
 #menu {
 	border: 1px solid forestgreen;
 	border-collapse: collapse;
-	padding: 5px;
+	padding: 17px;
 	color: gold;
+	width: 100%;
 }
 #menu th {
 	background-color: forestgreen;
