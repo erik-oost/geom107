@@ -43,15 +43,16 @@ li a:hover {
 h1 {
 	text-align: center;
 	color: white;
-	padding-bottom: 1px;
+	margin-block-start: 0.5em;
+	margin-block-end: 0.1em;
 	font-size: 5vw;
 }
 
 h2 {
 	text-align: center;
 	color: forestgreen;
-	padding-top: 1px;
-	padding-bottom: 1px;
+	margin-block-start: 0.2em;
+	margin-block-end: 0.2em;
 	font-size: 3vw;
 }
 
