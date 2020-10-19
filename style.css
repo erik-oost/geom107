@@ -70,3 +70,20 @@ p {
 img {
 	max-width: 100%;
 }
+#menu {
+	border: 1px solid forestgreen;
+	border-collapse: collapse;
+	padding: 5px;
+	color: gold;
+}
+#menu th {
+	background-color: forestgreen;
+	color: lightgreen;
+}
+#menu tr:nth-child(even) {
+	background-color: darkred;
+}
+#menu tr:nth-child(odd) {
+	background-color: crimson;
+}
+	
