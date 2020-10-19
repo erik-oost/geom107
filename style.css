@@ -73,7 +73,6 @@ img {
 #menu {
 	border: 1px solid forestgreen;
 	border-collapse: collapse;
-	padding: 17px;
 	color: gold;
 	width: 100%;
 }
@@ -87,4 +86,11 @@ img {
 #menu tr:nth-child(odd) {
 	background-color: crimson;
 }
-	
+.mleft {
+	padding: 17px
+	text-align: left;
+}
+.mcenter {
+	padding: 17px;
+	text-align: center;
+}
