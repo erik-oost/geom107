@@ -38,6 +38,7 @@ h3 {
 .homeimg {
 	max-width: 100%;
 	float: left;
+	margin-right: 0.2em;
 }
 
 /* NAVIGATION BAR */
