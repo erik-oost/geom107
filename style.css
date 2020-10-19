@@ -25,8 +25,8 @@ h2 {
 h3 {
 	text-align: center;
 	color: gold;
-	margin-top: 0.2em;
-	margin-bottom: 0.2em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
 	font-size: 2.5vw;
 }
 /* TEXT STYLE */
@@ -40,7 +40,10 @@ h3 {
 	float: left;
 	margin-right: 0.2em;
 }
-
+/* BOX */
+.goldbox {
+	border: 1px solid gold;
+}
 /* NAVIGATION BAR */
 /* Source: https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/ */
 .nav{
