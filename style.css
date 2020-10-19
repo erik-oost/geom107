@@ -1,72 +1,76 @@
-body { 
+/* GENERAL STYLE */
+body {
 	background-color: darkred;
+	font-family: Helvetica, Arial, sans-serif;
 }
-
-.header {
-	max-width: 100%;
-	float: left;
+p {
+	text-align: left;
+	color: gold;
+	font-size: 2vw;
 }
+h1 {
+	text-align: center;
+	color: white;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	font-size: 5vw;
+}
+h2 {
+	text-align: center;
+	color: forestgreen;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	font-size: 3vw;
+}
+h3 {
+	text-align: center;
+	color: gold;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	font-size: 2.5vw;
+}
+/* TEXT STYLE */
 .serif {
 	font-family: Perpetua, Times, serif;
 }
 
-.sansserif {
-	font-family: Helvetica, sans-serif;
+/* IMAGE STYLE */
+.homeimg {
+	max-width: 100%;
+	float: left;
 }
 
+/* NAVIGATION BAR */
+/* Source: https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/ */
 .nav{
-    border:1px solid white;
-    border-width:5px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+	border: 1px solid white;
+	border-width: 5px 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
 }
 .nav li{
-    display:inline;
-    color: forestgreen;
-    text-decoration: none;  
+	display: inline;
+	text-decoration: none;  
 }
 .nav a{
-    display:inline-block;
-    padding:7px;
-    text-decoration: none;
-	color: forestgreen;
+	display: inline-block;
+ 	padding: 7px;
+	text-decoration: none;
+	color: gold;
 }
+/* End Source */
 
+/* Source: https://www.w3schools.com/css/css_navbar_horizontal.asp */
 li a:hover {
 	background-color: crimson;
 	color: white;
 }
+/* End Source */
 
-h1 {
-	text-align: center;
-	color: white;
-	margin-block-start: 0.1em;
-	margin-block-end: 0.1em;
-	font-size: 5vw;
-}
-
-h2 {
-	text-align: center;
-	color: forestgreen;
-	margin-block-start: 0.2em;
-	margin-block-end: 0.2em;
-	font-size: 3vw;
-}
-
-h3 {
-	text-align: center;
-	color: gold;
-	margin-block-start: 0.2em;
-	margin-block-end: 0.2em;
-	font-size: 2.5vw;
-}
-
-p {
-	text-align: left;
-	color: gold;
-}
+/* MENU TABLE */
+/* Source: https://www.w3schools.com/html/html_tables.asp */
 th, td {
 	padding: 15px;
 }
@@ -92,3 +96,4 @@ th, td {
 .mcenter {
 	text-align: center;
 }
+/* End Source */
