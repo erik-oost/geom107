@@ -52,6 +52,7 @@ h2 {
 	color: forestgreen;
 	padding-top: 1px;
 	padding-bottom: 1px;
+	font-size: 3vw;
 }
 
 h3 {
@@ -59,6 +60,7 @@ h3 {
 	color: gold;
 	padding-top: 1px;
 	padding-bottom: 1px;
+	font-size: 1vw;
 }
 
 p {
