@@ -3,10 +3,8 @@ body {
 }
 
 .header {
-	display: block;
 	max-width: 100%;
 	float: left;
-	margin-block-start: 5px;
 }
 .serif {
 	font-family: Perpetua, Times, serif;
