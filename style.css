@@ -70,6 +70,9 @@ p {
 img {
 	max-width: 100%;
 }
+th, td {
+	padding: 15px;
+}
 #menu {
 	border: 1px solid forestgreen;
 	border-collapse: collapse;
@@ -87,10 +90,8 @@ img {
 	background-color: crimson;
 }
 .mleft {
-	padding: 17px
 	text-align: left;
 }
 .mcenter {
-	padding: 17px;
 	text-align: center;
 }
