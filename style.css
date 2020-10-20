@@ -126,8 +126,8 @@ th, td {
 /* MAP STYLE */
 .map {
 	float: left;
-	margin-right: 1em;
+	margin-right: 0.75em;
 }	
 .maptext {
-	margin-bottom: 1em;
+	line-height: 2.0;
 }
