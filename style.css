@@ -133,7 +133,7 @@ th, td {
 }
 
 /* PIZZA LINKS */
-.pizzalink a:link, a:visited {
+.pizzalink a:link {
 	color: lightgreen;
 	text-decoration: none;
 	background-color: navy;
