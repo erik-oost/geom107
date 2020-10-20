@@ -135,6 +135,7 @@ th, td {
 /* PIZZA LINKS */
 .pizzalink {
 	margin-bottom: 10px;
+	line-height: 2.0;
 }
 .pizzalink a:link, a:visited {
 	color: white;
