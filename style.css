@@ -135,6 +135,8 @@ th, td {
 /* PIZZA LINKS */
 .pizzalink a:link, a:visited {
 	color: lightgreen;
+	text-decoration: none;
+	background-color: navy;
 }
 .pizzalink a:hover, a:active {
 	background-color: black;
