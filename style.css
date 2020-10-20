@@ -123,3 +123,8 @@ th, td {
 	column-count: 3;
 }
 
+/* MAP IMAGE STYLE */
+.map {
+	float: left;
+	margin-right: 1px;
+}
