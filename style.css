@@ -123,8 +123,11 @@ th, td {
 	column-count: 3;
 }
 
-/* MAP IMAGE STYLE */
+/* MAP STYLE */
 .map {
 	float: left;
-	margin-right: 1px;
+	margin-right: 10px;
+}	
+.maptext {
+	margin-bottom: 10px
 }
