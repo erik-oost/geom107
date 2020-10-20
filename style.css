@@ -18,6 +18,7 @@ h1 {
 h2 {
 	text-align: center;
 	color: forestgreen;
+	text-shadow: 2px 2px 5px gold;
 	margin-top: 0.2em;
 	margin-bottom: 0.2em;
 	font-size: 3vw;
@@ -28,6 +29,13 @@ h3 {
 	margin-top: 1em;
 	margin-bottom: 1em;
 	font-size: 2.5vw;
+}
+h4 {
+	color: forestgreen
+	text-shadow: 1px 1px 3px gold;
+	font-size: 2.5vw;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 /* TEXT STYLE */
 .serif {
