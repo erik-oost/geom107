@@ -133,13 +133,8 @@ th, td {
 }
 
 /* PIZZA LINKS */
-.pizzalink a:link {
-	background-color: navy;
-	color: white;
-	padding: 10px 10px
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
+.pizzalink a:link, a:visited {
+	color: lightgreen;
 }
 .pizzalink a:hover, a:active {
 	background-color: black;
