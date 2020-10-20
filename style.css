@@ -51,8 +51,8 @@ h4 {
 	max-width: 100%;
 }
 /* BOX */
-.goldbox {
-	border: 1px solid gold;
+.greenbox {
+	border: 1px solid forestgreen;
 }
 /* NAVIGATION BAR */
 /* Source: https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/ */
