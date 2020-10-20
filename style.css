@@ -115,3 +115,13 @@ th, td {
 	text-align: center;
 }
 /* End Source */
+
+/* MENU LIST */
+/* Sources: https://www.w3schools.com/css/css3_flexbox_container.asp
+
+#toppings {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
