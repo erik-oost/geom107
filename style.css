@@ -120,9 +120,6 @@ th, td {
 /* Sources: https://www.w3schools.com/css/css3_flexbox_container.asp
 
 #toppings {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	height: 50px;
+	column-count: 3;
 }
 
