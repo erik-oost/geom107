@@ -44,6 +44,7 @@ h4 {
 }
 
 /* IMAGE STYLE */
+/* Source: https://www.w3schools.com/howto/howto_css_image_center.asp */
 .homeimg {
 	display: block;
 	margin-left: auto;
@@ -51,6 +52,8 @@ h4 {
 	margin-bottom: 1em;
 	max-width: 100%;
 }
+/* End Source*/
+
 /* BOX */
 .greenbox {
 	border: 1px solid forestgreen;
@@ -116,13 +119,6 @@ th, td {
 }
 /* End Source */
 
-/* MENU LIST */
-/* Sources: https://www.w3schools.com/css/css3_flexbox_container.asp
-
-#toppings {
-	column-count: 3;
-}
-
 /* MAP STYLE */
 .map {
 	float: left;
@@ -133,6 +129,7 @@ th, td {
 }
 
 /* PIZZA LINKS */
+/* Source: https://www.w3schools.com/html/html_links.asp */
 .pizzalink {
 	margin-bottom: 10px;
 	line-height: 2.0;
@@ -149,3 +146,4 @@ th, td {
 	background-color: crimson;
 	padding: 10px 10px;
 }
+/* End Source */
