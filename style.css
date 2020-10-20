@@ -137,13 +137,13 @@ th, td {
 	margin-bottom: 10px;
 	line-height: 2.0;
 }
-.pizzalink a:link, a:visited {
+.pizzalink a:link, .pizzalink a:visited {
 	color: white;
 	text-decoration: none;
 	background-color: navy;
 	padding: 10px 10px;
 }
-.pizzalink a:hover, a:active {
+.pizzalink a:hover, .pizzalink a:active {
 	color: white;
 	text-decoration: none;
 	background-color: crimson;
