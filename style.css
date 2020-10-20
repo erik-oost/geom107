@@ -54,6 +54,9 @@ h4 {
 .greenbox {
 	border: 1px solid forestgreen;
 }
+.boxtext {
+	margin-left: 0.5em;
+}
 /* NAVIGATION BAR */
 /* Source: https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/ */
 .nav{
