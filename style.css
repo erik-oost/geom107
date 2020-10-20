@@ -19,7 +19,7 @@ h1 {
 h2 {
 	text-align: center;
 	color: forestgreen;
-	text-shadow: 2px 2px 5px black;
+	text-shadow: 2px 2px 5px black; /* Source: https://www.w3schools.com/cssref/css3_pr_text-shadow.asp */
 	margin-top: 0.2em;
 	margin-bottom: 0.2em;
 	font-size: 3vw;
@@ -33,7 +33,7 @@ h3 {
 }
 h4 {
 	color: forestgreen;
-	text-shadow: 1px 1px 3px black;
+	text-shadow: 1px 1px 3px black; /* Source: https://www.w3schools.com/cssref/css3_pr_text-shadow.asp */
 	font-size: 2.5vw;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
