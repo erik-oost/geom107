@@ -138,6 +138,7 @@ th, td {
 	text-decoration: none;
 	background-color: navy;
 	padding: 10px 10px;
+	margin-bottom: 10px;
 }
 .pizzalink a:hover, a:active {
 	color: white;
