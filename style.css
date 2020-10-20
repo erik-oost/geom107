@@ -133,17 +133,18 @@ th, td {
 }
 
 /* PIZZA LINKS */
+.pizzalink {
+	margin-bottom: 10px;
+}
 .pizzalink a:link, a:visited {
 	color: white;
 	text-decoration: none;
 	background-color: navy;
 	padding: 10px 10px;
-	margin-bottom: 10px;
 }
 .pizzalink a:hover, a:active {
 	color: white;
 	text-decoration: none;
 	background-color: crimson;
 	padding: 10px 10px;
-	margin-bottom: 10px;
 }
