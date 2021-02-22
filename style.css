@@ -1,40 +1,38 @@
 /* GENERAL STYLE */
 body {
-	background-color: darkred;
+	background-color: rgb(249,245,200);
 	font-family: Helvetica, Arial, sans-serif;
-	color: white;
+	color: darkred;
 	text-align: left;
 }
 p {
 	text-align: left;
-	color: gold;
+	color: darkred;
 }
 h1 {
 	text-align: center;
-	color: white;
+	color: darkred;
 	margin-top: 0.1em;
 	margin-bottom: 0.1em;
 	font-size: 5vw;
 }
 h2 {
 	text-align: center;
-	color: forestgreen;
-	text-shadow: 2px 2px 5px black; /* Source: https://www.w3schools.com/cssref/css3_pr_text-shadow.asp */
+	color: rgb(23,94,23);
 	margin-top: 0.2em;
 	margin-bottom: 0.2em;
 	font-size: 3vw;
 }
 h3 {
 	text-align: center;
-	color: gold;
+	color: darkred;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	font-size: 2.5vw;
 }
 h4 {
-	color: forestgreen;
-	text-shadow: 1px 1px 3px black; /* Source: https://www.w3schools.com/cssref/css3_pr_text-shadow.asp */
-	font-size: 2.5vw;
+	color: rgb(23,94,23);
+	font-size: 2vw;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 }
@@ -52,13 +50,15 @@ h4 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1em;
+	margin-top: 1em;
 	max-width: 100%;
 }
 /* End Source*/
 
 /* BOX */
 .greenbox {
-	border: 1px solid forestgreen;
+	border: 1px solid rgb(23,94,23);
+	padding: 0.5em;
 }
 .boxtext {
 	margin-left: 0.5em;
@@ -66,7 +66,7 @@ h4 {
 /* NAVIGATION BAR */
 /* Source: https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/ */
 .nav{
-	border: 1px solid white;
+	border: 1px solid rgb(23,94,23);
 	border-width: 5px 0;
 	list-style: none;
 	margin: 0;
@@ -81,13 +81,13 @@ h4 {
 	display: inline-block;
  	padding: 7px;
 	text-decoration: none;
-	color: gold;
+	color: darkred;
 }
 /* End Source */
 
 /* Source: https://www.w3schools.com/css/css_navbar_horizontal.asp */
 li a:hover {
-	background-color: crimson;
+	background-color: darkred;
 	color: white;
 }
 /* End Source */
@@ -98,14 +98,14 @@ th, td {
 	padding: 15px;
 }
 #menu {
-	border: 1px solid forestgreen;
+	border: 1px solid rgb(23,94,23);
 	border-collapse: collapse;
-	color: gold;
+	color: white;
 	width: 100%;
 }
 #menu th {
-	background-color: forestgreen;
-	color: lightgreen;
+	background-color:rgb(23,94,23);
+	color: white;
 }
 #menu tr:nth-child(even) {
 	background-color: darkred;
@@ -145,7 +145,7 @@ th, td {
 .pizzalink a:hover, .pizzalink a:active {
 	color: white;
 	text-decoration: none;
-	background-color: crimson;
+	background-color: darkred;
 	padding: 10px 10px;
 }
 /* End Source */
